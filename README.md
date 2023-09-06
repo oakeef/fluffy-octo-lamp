@@ -19,10 +19,10 @@ Select Emulate
 
 Select Windows
 
-Settings:
-- Install Windows 10 or Higher
-- Click Browse and select your Windows 10 ISO from above
-- Install drivers and SPICE tools
+> Settings:
+> - Install Windows 10 or Higher
+> - Click Browse and select your Windows 10 ISO from above
+> - Install drivers and SPICE tools
 
 Continue to next page
 
