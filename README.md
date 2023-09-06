@@ -26,16 +26,16 @@ Select Windows
 
 Continue to next page
 
-Settings:
-- X86_64
-- Standard PC (Q35 + ICH9, 2009) (alias of pc-q35-7.2) (q35)
-- 4GB Memory (8GB is preferred if you have 16GB Memory)
-- 6 CPU Cores
+> Settings:
+> - X86_64
+> - Standard PC (Q35 + ICH9, 2009) (alias of pc-q35-7.2) (q35)
+> - 4GB Memory (8GB is preferred if you have 16GB Memory)
+> - 6 CPU Cores
 
 Continue to next page
 
-Settings:
-- 64GB Storage (Storage is dynamic so it doesn't take up 64GB right away)
+> Settings:
+> - 64GB Storage (Storage is dynamic so it doesn't take up 64GB right away)
 
 Continue to next page
 
@@ -48,9 +48,9 @@ Continue to next page and if all the settings look right then click Save
 
 Go into settings before starting the VM and change the following:
 
-SYSTEM > CPU
-- QEMU Virtual CPU Version 2.5+ (qemu64-v1)
-- Force Multicore
+> SYSTEM > CPU
+> - QEMU Virtual CPU Version 2.5+ (qemu64-v1)
+> - Force Multicore
 
 
 ## ========= Step 3 ==========
@@ -66,8 +66,8 @@ Install Windows 10
 
 When it reboots it will blue screen. That is ok Turn Off VM and change the following settings:
 
-QEMU
-- TPM 2.0 OFF
+> QEMU
+> - TPM 2.0 OFF
 
 Boot up VM again
 
