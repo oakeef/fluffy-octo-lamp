@@ -55,7 +55,7 @@ SYSTEM > CPU
 
 ## ========= Step 3 ==========
 
-*** Everything from here on will be very slow because it is being emulated so have patience. Some of these next steps will take 20+ mins ***
+***Everything from here on will be very slow because it is being emulated so have patience. Some of these next steps will take 20+ mins***
 
 Boot up VM and press any key when it tells you to to boot from DVD
 
