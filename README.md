@@ -79,6 +79,6 @@ Run through Windows First Run Wizard
 
 ## ========= Step 6 ==========
 
-When the setup is complete, install SPICE guest tools
+When the setup is complete, install SPICE guest tools. The ISO should already be mounted so you can install them from My Computer. They may also pop up automatically.
 
 The end
