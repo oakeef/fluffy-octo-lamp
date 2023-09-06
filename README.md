@@ -1,8 +1,8 @@
-================================================================
-|||||| How to set up an X86 Windows 10 VM on an M1/M2 Mac ||||||
-================================================================
 
-====== Prerequisites ====== 
+# How to set up an X86 Windows 10 VM on an M1/M2 Mac
+
+
+## ====== Prerequisites ====== 
 
 Download and install UTM on mac:
 https://mac.getutm.app/
@@ -11,7 +11,7 @@ Download Windows 10 image from here:
 https://www.microsoft.com/en-ca/software-download/windows10
 
 
-========= Step 1 ==========
+## ========= Step 1 ==========
 
 Click on Create a New Virtual Machine
 
@@ -44,7 +44,7 @@ Feel free to set up a Shared Directory if you want but you can set this up later
 Continue to next page and if all the settings look right then click Save
 
 
-========= Step 2 ==========
+## ========= Step 2 ==========
 
 Go into settings before starting the VM and change the following:
 
@@ -53,7 +53,7 @@ SYSTEM > CPU
 - Force Multicore
 
 
-========= Step 3 ==========
+## ========= Step 3 ==========
 
 *** Everything from here on will be very slow because it is being emulated so have patience. Some of these next steps will take 20+ mins ***
 
@@ -62,7 +62,7 @@ Boot up VM and press any key when it tells you to to boot from DVD
 Install Windows 10
 
 
-========= Step 4 ==========
+## ========= Step 4 ==========
 
 When it reboots it will blue screen. That is ok Turn Off VM and change the following settings:
 
@@ -72,13 +72,13 @@ QEMU
 Boot up VM again
 
 
-========= Step 5 ==========
+## ========= Step 5 ==========
 
 Run through Windows First Run Wizard
 
 
-========= Step 6 ==========
+## ========= Step 6 ==========
 
 When the setup is complete, install SPICE guest tools
 
-
+The end
