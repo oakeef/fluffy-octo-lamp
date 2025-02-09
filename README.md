@@ -1,5 +1,5 @@
 
-# How to set up an X86 Windows 10 VM on an M1/M2 Mac
+# How to set up an X86 Windows 10 or 11 VM on an M1/M2/M3/M4 Mac
 
 
 ## ====== Prerequisites ====== 
@@ -10,6 +10,8 @@ https://mac.getutm.app/
 Download Windows 10 image from here: 
 https://www.microsoft.com/en-ca/software-download/windows10
 
+Download Windows 11 image from here: 
+https://www.microsoft.com/en-ca/software-download/windows11
 
 ## ========= Step 1 ==========
 
@@ -21,7 +23,7 @@ Select Windows
 
 > Settings:
 > - Install Windows 10 or Higher
-> - Click Browse and select your Windows 10 ISO from above
+> - Click Browse and select your Windows 10/11 ISO from above
 > - Install drivers and SPICE tools
 
 Continue to next page
@@ -59,7 +61,7 @@ Go into settings before starting the VM and change the following:
 
 Boot up VM and press any key when it tells you to to boot from DVD
 
-Install Windows 10
+Install Windows 10/11
 
 
 ## ========= Step 4 ==========
